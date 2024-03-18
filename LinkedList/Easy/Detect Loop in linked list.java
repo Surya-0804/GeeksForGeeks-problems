@@ -1,3 +1,5 @@
+/* Node is defined as
+
 class Node
 {
     int data;
